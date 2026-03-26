@@ -7,3 +7,6 @@
 .nav-link.active{
     color: blue!important;
 }
+body{
+    margin: 0px 20px;
+}
